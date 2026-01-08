@@ -1,0 +1,43 @@
+.apresentacao-card {
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  padding: 1rem;
+
+  width: calc(100% - 2rem); /* largura da tela menos margem lateral */
+  margin: 2rem auto;        /* margem vertical de 2rem, horizontal automática */
+}
+
+/* Card interno horizontal/vertical */
+.card-inner {
+  display: flex;
+  flex-direction: row;       /* horizontal no desktop */
+  align-items: flex-start;   /* conteúdo cresce, imagem mantém proporção */
+  gap: 1rem;
+}
+
+/* Vertical no mobile */
+@media screen and (max-width: 500px) {
+  .card-inner {
+    flex-direction: column;
+    align-items: center;     /* centraliza no mobile */
+  }
+}
+
+/* Container da imagem */
+.card-image {
+  flex: 0 0 auto;            /* largura fixa da imagem */
+}
+
+/* Imagem proporcional */
+.card-image img {
+  display: block;
+  max-width: 250px;          /* largura máxima */
+  width: 100%;               /* ocupa todo o container */
+  height: auto;              /* mantém proporção */
+}
+
+/* Conteúdo do card */
+.card-content {
+  flex: 1;                   /* cresce com o texto */
+}

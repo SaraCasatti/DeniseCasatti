@@ -1,0 +1,8 @@
+/* Navbar burger lines pretas */
+.navbar-burger span {
+  background-color: black;
+}
+
+.navbar-burger.is-active span {
+  background-color: black;
+}

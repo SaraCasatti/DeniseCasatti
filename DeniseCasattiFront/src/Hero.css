@@ -1,0 +1,10 @@
+.hero-header {
+  background-image: url("./assets/HeroBackground.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+   /* optional: extra spacing for fixed navbar */
+  padding-top: 4rem; /* height of navbar */
+  padding-bottom: 4rem; /* optional for large spacing */
+}
