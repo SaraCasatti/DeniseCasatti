@@ -6,7 +6,7 @@ function NavBar() {
   const [isActive, setIsActive] = useState(false);
 
   return (
-    <nav className="navbar is-light is-fixed-top" role="navigation">
+    <nav className="navbar is-light is-fixed-top navbar-custom " role="navigation">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <img src={LogoA} alt="Logo" />

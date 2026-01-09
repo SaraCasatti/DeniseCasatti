@@ -1,6 +1,6 @@
-import p3 from "./assets/p3.jpeg"
 import "./apresentacao.css";
-import LogoA from "./assets/LogoA.png"
+import LogoA from "./assets/LogoA.png";
+import p3 from "./assets/p3.jpeg";
 
 function Apresentacao(props) {
 

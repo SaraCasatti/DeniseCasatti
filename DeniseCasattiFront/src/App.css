@@ -6,3 +6,8 @@
 .navbar-burger.is-active span {
   background-color: black;
 }
+
+.navbar-custom {
+  border-bottom: 1.5px solid rgba(0, 0, 0, 0.2);
+}
+
