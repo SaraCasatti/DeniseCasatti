@@ -5,7 +5,7 @@ function MyStory(props) {
     return (
         <>
             <div className="box Bboxx" style={{color:"#3f4136ff"}}>
-                Professional Autobiography
+               
 
 I’ve been working to overcome the barriers that separate the general public from the mathematical sciences since 2013, when I began working as a Communications Analyst at the University of São Paulo (USP). Participating in the Knight Science Journalism Fellowship Program will enable me to achieve a central professional goal: writing a book about the challenges of crafting narratives about the mathematical sciences for a general audience.
 

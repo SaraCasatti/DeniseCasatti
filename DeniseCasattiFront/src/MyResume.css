@@ -11,3 +11,25 @@
 .Bboxx {
   overflow-wrap: break-word;
 }
+
+.nome {
+  border: 2px solid black;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.cab0 {
+  border: 2px solid black;
+  
+  margin-bottom: 1rem;
+}
+
+.cab1 {
+  border-bottom: 2px solid black;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.cab2 {
+  padding: 0.5rem;
+}
