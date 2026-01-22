@@ -11,3 +11,8 @@
 .Bboxx {
   overflow-wrap: break-word;
 }
+
+.assinatura {
+  
+  padding-left:  calc((100% - 10rem) ) ;
+}

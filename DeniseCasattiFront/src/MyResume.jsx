@@ -160,15 +160,7 @@ function MyResume(props) {
                         production of texts for Journalism and Marketing/Publicity courses. I also directed more than 20
                         undergraduate research projects related to journalism. <br />
                         <br />
-                        <b>5) Brazilian Academy of Literary Journalism (
-                                <a 
-                                href="https://www.facebook.com/jornalismoliterarioep" 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                >
-                                www.facebook.com/jornalismoliterarioep
-                                </a>
-                            )</b> <br />
+                        <b>5) Brazilian Academy of Literary Journalism </b> <br />
                         February 2006 - December 2010 <br />
                         <b>Position:</b><em> professor </em><br />
                         <br />
