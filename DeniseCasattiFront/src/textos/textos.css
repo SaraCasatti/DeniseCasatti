@@ -1,0 +1,24 @@
+.box {
+  background-color: rgb(255, 255, 255);
+
+  border-radius: 8px;
+  padding: 1rem;
+
+  width: calc(100% - 2rem); /* largura da tela menos margem lateral */
+  
+}
+
+.Bboxx {
+  overflow-wrap: break-word;
+}
+
+.centraliza {
+  text-align: center;
+  justify-content: center;
+}
+
+.retangulo {
+  border: 2px solid black;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}

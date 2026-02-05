@@ -10,6 +10,7 @@ function AppRoutes() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/MyWork" element={<MyWork />} />
+      <Route path="/MyWork/:id" element={<MyWork />} />
       <Route path="/MyStory" element={<MyStory />} />
       <Route path="/MyResume" element={<MyResume />} />
     </Routes>
